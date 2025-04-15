@@ -46,4 +46,4 @@ app/Http/Controllers/VillageController.php - Game logic controller
 
 resources/views/village.blade.php - Main UI view
 
-![travian_clone](https://github.com/user-attachments/assets/8d8f946a-ab2f-4eb3-b226-891400faf2ef)
+
